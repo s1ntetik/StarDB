@@ -1,3 +1,3 @@
 StarDB
 
-Demo - https://stardb-da504.firebaseapp.com/
+https://stardb-da504.web.app/
